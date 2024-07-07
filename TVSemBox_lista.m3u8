@@ -1,74 +1,74 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/3m97yppj87h5319zydxq"
 
 #EXTINF:-1 tvg-chno="1" tvg-id="RTP1(src01).pt" tvg-name="RTP1" tvg-logo="" group-title="Generalistas/News",RTP1
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp1.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp1.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="RTP2(src01).pt" tvg-name="RTP2" tvg-logo="" group-title="Generalistas/News",RTP2
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp2.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp2.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="SIC(src01).pt" tvg-name="SIC" tvg-logo="" group-title="Generalistas/News",SIC
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sic.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sic.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="TVI(src01).pt" tvg-name="TVI" tvg-logo="" group-title="Generalistas/News",TVI
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi.m3u8
 #EXTINF:-1 tvg-chno="5" tvg-id="SICNoticias(src01).pt" tvg-name="SICNoticias" tvg-logo="" group-title="Generalistas/News",SICNoticias
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicnoticias.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicnoticias.m3u8
 #EXTINF:-1 tvg-chno="6" tvg-id="RTP3(src01).pt" tvg-name="RTP3" tvg-logo="" group-title="Generalistas/News",RTP3
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpinformacao.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpinformacao.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="CNNPortugal(src01).pt" tvg-name="CNNPortugal" tvg-logo="" group-title="Generalistas/News",CNNPortugal
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi24.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvi24.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="CMTV(src01).pt" tvg-name="CMTV" tvg-logo="" group-title="Generalistas/News",CMTV
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cmtv.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cmtv.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="SICMulher(src01).pt" tvg-name="SicMulher" tvg-logo="" group-title="Entretenimento",SicMulher
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicmulher.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicmulher.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TVGlobo(src01).pt" tvg-name="Globo PT" tvg-logo="" group-title="Generalistas/News",Globo PT
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/globoportugal.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/globoportugal.m3u8
 #EXTINF:-1 tvg-chno="11" tvg-id="Canal11(src01).pt" tvg-name="Canal 11" tvg-logo="" group-title="Desporto",Canal 11
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/11.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/11.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="TVIFiccao(src01).pt" tvg-name="TVI Ficcao" tvg-logo="" group-title="Entretenimento",TVI Ficcao
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvificcao.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvificcao.m3u8
 #EXTINF:-1 tvg-chno="13" tvg-id="ABolaTV(src01).pt" tvg-name="ABolaTV" tvg-logo="" group-title="Desporto",ABolaTV
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/abolatv.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/abolatv.m3u8
 #EXTINF:-1 tvg-chno="14" tvg-id="SportTVplus(src01).pt" tvg-name="SportTV+" tvg-logo="" group-title="Desporto",SportTV+
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttvmais.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttvmais.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="PortoCanal(src01).pt" tvg-name="PortoCanal" tvg-logo="" group-title="Generalistas/News",PortoCanal
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/portocanal.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/portocanal.m3u8
 
 #EXTINF:-1 tvg-chno="21" tvg-id="SportTV1(src01).pt" tvg-name="SportTV1[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1.m3u8
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1Backup[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1Backup[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1backup.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1backup.m3u8
 #EXTINF:-1 tvg-chno="22" tvg-id="SportTV2(src01).pt" tvg-name="SportTV2[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-2.png" group-title="Desporto",SportTV2[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="SportTV3(src01).pt" tvg-name="SportTV3[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-3.png" group-title="Desporto",SportTV3[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="SportTV4(src01).pt" tvg-name="SportTV4[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-4.png" group-title="Desporto",SportTV4[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv4.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv4.m3u8
 #EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV5[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-5.png" group-title="Desporto",SportTV5[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="SportTV6(src01).pt" tvg-name="SportTV6[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-6.png" group-title="Desporto",SportTV6[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="BTV1(src01).pt" tvg-name="BTV1[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="BTV1(src01).pt" tvg-name="BTV1Backup[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1Backup[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1backup.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1backup.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src01).pt" tvg-name="ElevenSports1[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",ElevenSports1[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports1.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports1.m3u8
 #EXTINF:-1 tvg-chno="32" tvg-id="ElevenSports2(src01).pt" tvg-name="ElevenSports2[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-2.png" group-title="Desporto",ElevenSports2[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports2.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports2.m3u8
 #EXTINF:-1 tvg-chno="33" tvg-id="ElevenSports3(src01).pt" tvg-name="ElevenSports3[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-3.png" group-title="Desporto",ElevenSports3[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports3.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports3.m3u8
 #EXTINF:-1 tvg-chno="34" tvg-id="ElevenSports4(src01).pt" tvg-name="ElevenSports4[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-4.png" group-title="Desporto",ElevenSports4[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports4.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports4.m3u8
 #EXTINF:-1 tvg-chno="35" tvg-id="ElevenSports5(src01).pt" tvg-name="ElevenSports5[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-5.png" group-title="Desporto",ElevenSports5[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports5.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports5.m3u8
 #EXTINF:-1 tvg-chno="36" tvg-id="ElevenSports6(src01).pt" tvg-name="ElevenSports6[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="Desporto",ElevenSports6[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports6.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports6.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="EuroSport1(src01).pt" tvg-name="Eurosport1" tvg-logo="https://tudonumclick.com/imagens/tv/eurosport.png" group-title="Desporto",Eurosport1
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport.m3u8
 #EXTINF:-1 tvg-chno="39" tvg-id="EuroSport2(src01).pt" tvg-name="Eurosport2" tvg-logo="https://tudonumclick.com/imagens/tv/eurosport-2.png" group-title="Desporto",Eurosport2
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport2.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport2.m3u8
 #EXTINF:-1 tvg-chno="37" tvg-id="SPORTINGTV(src01).pt" tvg-name="SportingTV" tvg-logo="" group-title="Desporto",SportingTV
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sportingtv.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sportingtv.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="NBA(src01).pt" tvg-name="NBATV" tvg-logo="" group-title="Desporto",NBATV
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nbatv.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nbatv.m3u8
 
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1[Server2]
 http://lb2.tvsembox.com:80/hls/sporttv1.m3u8
@@ -102,121 +102,121 @@ http://lb2.tvsembox.com:80/hls/elevensports5.m3u8
 http://lb2.tvsembox.com:80/hls/elevensports6.m3u8
 
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_300kbps[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_300kbps[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1_300kbps.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1_300kbps.m3u8
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_300kbps[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_300kbps[Server2]
 http://lb2.tvsembox.com:80/hls/sporttv1_300kbps.m3u8
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_300kbps[Server1.2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_300kbps[Server1.2]
 http://51.159.106.214/hls/sporttv1_300kbps.m3u8
 
 #EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_300kbps[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_300kbps[Server1]
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_300kbps.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_300kbps.m3u8
 #EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_300kbps[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_300kbps[Server2]
 http://lb2.tvsembox.com:80/hls/btv1_300kbps.m3u8
 #EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_300kbps[Server1.2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_300kbps[Server1.2]
 http://51.159.106.214/hls/btv1_300kbps.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-id="DisneyChannel(src01).pt" tvg-name="DisneyChannel" tvg-logo="" group-title="Kids",DisneyChannel
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneychannel.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneychannel.m3u8
 #EXTINF:-1 tvg-chno="41" tvg-id="CartoonNetwork(src01).pt" tvg-name="CartoonNetwork" tvg-logo="" group-title="Kids",CartoonNetwork
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cartoonnetwork.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cartoonnetwork.m3u8
 #EXTINF:-1 tvg-chno="43" tvg-id="SICK(src01).pt" tvg-name="SICK" tvg-logo="" group-title="Kids",SICK
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sick.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sick.m3u8
 #EXTINF:-1 tvg-chno="45" tvg-id="DisneyJunior(src01).pt" tvg-name="DisneyJunior" tvg-logo="" group-title="Kids",DisneyJunior
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneyjunior.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/disneyjunior.m3u8
 #EXTINF:-1 tvg-chno="46" tvg-id="Panda(src01).pt" tvg-name="CanalPanda" tvg-logo="" group-title="Kids",CanalPanda
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalpanda.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalpanda.m3u8
 #EXTINF:-1 tvg-chno="54" tvg-id="PANDABIGGS(src01).pt" tvg-name="PandaBiggs" tvg-logo="" group-title="Kids",PandaBiggs
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/pandabiggs.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/pandabiggs.m3u8
 
 #EXTINF:-1 tvg-chno="55" tvg-id="TVCineTOP(src01).pt" tvg-name="TVCine1 TOP" tvg-logo="" group-title="Cinema/Séries",TVCine1 TOP
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine1.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine1.m3u8
 #EXTINF:-1 tvg-chno="56" tvg-id="TVCineEDITION(src01).pt" tvg-name="TVCine2 EDITION" tvg-logo="" group-title="Cinema/Séries",TVCine2 EDITION
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine2.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine2.m3u8
 #EXTINF:-1 tvg-chno="57" tvg-id="TVCineEMOTION(src01).pt" tvg-name="TVCine3 EMOTION" tvg-logo="" group-title="Cinema/Séries",TVCine3 EMOTION
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine3.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine3.m3u8
 #EXTINF:-1 tvg-chno="58" tvg-id="TVCineACTION(src01).pt" tvg-name="TVCine4 ACTION" tvg-logo="" group-title="Cinema/Séries",TVCine4 ACTION
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine4.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvcine4.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="CINEMUNDO(src01).pt" tvg-name="CineMundo" tvg-logo="" group-title="Cinema/Séries",CineMundo
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cinemundo.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/cinemundo.m3u8
 #EXTINF:-1 tvg-chno="61" tvg-id="Hollywood(src01).pt" tvg-name="Hollywood" tvg-logo="" group-title="Cinema/Séries",Hollywood
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/hollywood.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/hollywood.m3u8
 #EXTINF:-1 tvg-chno="62" tvg-id="FOXMovies(src01).pt" tvg-name="FOX/STAR Movies" tvg-logo="" group-title="Cinema/Séries",FOX/STAR Movies
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxmovies.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxmovies.m3u8
 #EXTINF:-1 tvg-chno="63" tvg-id="AMC(src01).pt" tvg-name="AMC" tvg-logo="" group-title="Cinema/Séries",AMC
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/amc.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/amc.m3u8
 #EXTINF:-1 tvg-chno="64" tvg-id="AXNMovies(src01).pt" tvg-name="AXNMovies" tvg-logo="" group-title="Cinema/Séries",AXNMovies
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnblack.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnblack.m3u8
 #EXTINF:-1 tvg-chno="70" tvg-id="FOX(src01).pt" tvg-name="FOX/STAR" tvg-logo="" group-title="Cinema/Séries",FOX/STAR
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/fox.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/fox.m3u8
 #EXTINF:-1 tvg-chno="71" tvg-id="FOXLIFE(src01).pt" tvg-name="FOX/STAR Life" tvg-logo="" group-title="Cinema/Séries",FOX/STAR Life
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxlife.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxlife.m3u8
 #EXTINF:-1 tvg-chno="72" tvg-id="FOXCRIME(src01).pt" tvg-name="FOX/STAR Crime" tvg-logo="" group-title="Cinema/Séries",FOX/STAR Crime
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcrime.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcrime.m3u8
 #EXTINF:-1 tvg-chno="73" tvg-id="FOXComedy(src01).pt" tvg-name="FOX/STAR Comedy" tvg-logo="" group-title="Cinema/Séries",FOX/STAR Comedy
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcomedy.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/foxcomedy.m3u8
 #EXTINF:-1 tvg-chno="74" tvg-id="AXN(src01).pt" tvg-name="AXN" tvg-logo="" group-title="Cinema/Séries",AXN
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axn.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axn.m3u8
 #EXTINF:-1 tvg-chno="75" tvg-id="AXNWhite(src01).pt" tvg-name="AXNWhite" tvg-logo="" group-title="Cinema/Séries",AXNWhite
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnwhite.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/axnwhite.m3u8
 #EXTINF:-1 tvg-chno="76" tvg-id="SyFy(src01).pt" tvg-name="SyFy" tvg-logo="" group-title="Cinema/Séries",SyFy
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/syfy.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/syfy.m3u8
 
 #EXTINF:-1 tvg-chno="90" tvg-id="DiscoveryChannel(src01).pt" tvg-name="DiscoveryChannel" tvg-logo="" group-title="Documentários",DiscoveryChannel
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/discoverychannel.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/discoverychannel.m3u8
 #EXTINF:-1 tvg-chno="91" tvg-id="Historia(src01).pt" tvg-name="Historia" tvg-logo="" group-title="Documentários",Historia
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/historia.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/historia.m3u8
 #EXTINF:-1 tvg-chno="92" tvg-id="Odisseia(src01).pt" tvg-name="Odisseia" tvg-logo="" group-title="Documentários",Odisseia
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/odisseia.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/odisseia.m3u8
 #EXTINF:-1 tvg-chno="95" tvg-id="nationalgeographic.pt" tvg-name="NationalGeographic" tvg-logo="" group-title="Documentários",NationalGeographic
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nationalgeographic.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nationalgeographic.m3u8
 #EXTINF:-1 tvg-chno="96" tvg-id="NatGeoWild(src01).pt" tvg-name="NatGeoWild" tvg-logo="" group-title="Documentários",NatGeoWild
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/natgeowild.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/natgeowild.m3u8
 
 #EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="Crime Investigation" tvg-logo="" group-title="Documentários",Crime Investigation
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ci.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ci.m3u8
 
 #EXTINF:-1 tvg-chno="99" tvg-id="TVIReal(src01).pt" tvg-name="TVIReality" tvg-logo="" group-title="Entretenimento",TVIReality
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvireality.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvireality.m3u8
 #EXTINF:-1 tvg-chno="100" tvg-id="rtpmemoria(src01).pt" tvg-name="RTP Memória" tvg-logo="" group-title="Generalistas/News",RTP Memória
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmemoria.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmemoria.m3u8
 #EXTINF:-1 tvg-chno="101" tvg-id="CanalQ(src01).pt" tvg-name="CanalQ" tvg-logo="" group-title="Entretenimento",CanalQ
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalq.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/canalq.m3u8
 
 #EXTINF:-1 tvg-chno="105" tvg-id="SICRadical(src01).pt" tvg-name="SicRadical" tvg-logo="" group-title="Entretenimento",SicRadical
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicradical.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicradical.m3u8
 #EXTINF:-1 tvg-chno="106" tvg-id="MTV(src01).pt" tvg-name="MTVPortugal" tvg-logo="" group-title="Música",MTVPortugal
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/mtvportugal.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/mtvportugal.m3u8
 #EXTINF:-1 tvg-chno="107" tvg-id="blaze.pt" tvg-name="AMC Break" tvg-logo="" group-title="Documentários",AMC Break
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ae.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/ae.m3u8
 
 #EXTINF:-1 tvg-chno="118" tvg-id="TLC(src01).pt" tvg-name="TLC" tvg-logo="" group-title="Entretenimento",TLC
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tlc.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tlc.m3u8
 
 #EXTINF:-1 tvg-chno="120" tvg-id="SicCaras(src01).pt" tvg-name="SicCaras" tvg-logo="" group-title="Entretenimento",SicCaras
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/siccaras.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/siccaras.m3u8
 #EXTINF:-1 tvg-chno="121" tvg-id="eentertainment(src01).pt" tvg-name="E" tvg-logo="" group-title="Entretenimento",E
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/e.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/e.m3u8
 
 #EXTINF:-1 tvg-chno="123" tvg-id="24Kitchen(src01).pt" tvg-name="24Kitchen" tvg-logo="" group-title="Entretenimento",24Kitchen
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/24kitchen.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/24kitchen.m3u8
 
 #EXTINF:-1 tvg-chno="132" tvg-id="TraceUrban.pt" tvg-name="TraceUrban" tvg-logo="" group-title="Música",TraceUrban
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/traceurban.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/traceurban.m3u8
 
 #EXTINF:-1 tvg-chno="136" tvg-id="AfroMusic(src01).pt" tvg-name="AfroMusicChannel" tvg-logo="" group-title="Música",AfroMusicChannel
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/afromusicchannel.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/afromusicchannel.m3u8
 
 #EXTINF:-1 tvg-chno="160" tvg-id="RTPAcores(src01).pt" tvg-name="RTP Acores" tvg-logo="" group-title="Generalistas/News",RTP Acores
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpacores.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpacores.m3u8
 #EXTINF:-1 tvg-chno="161" tvg-id="RTPMadeira(src01).pt" tvg-name="RTP Madeira" tvg-logo="" group-title="Generalistas/News",RTP Madeira
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmadeira.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtpmadeira.m3u8
 #EXTINF:-1 tvg-chno="189" tvg-id="PFC(src01).pt" tvg-name="PFC" tvg-logo="" group-title="Desporto",PFC
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/pfc.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/pfc.m3u8
 #EXTINF:-1 tvg-chno="192" tvg-id="RECORDNEWS(src01).pt" tvg-name="TV Record PT" tvg-logo="" group-title="Generalistas/News",TV Record PT
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvrecordportugal.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvrecordportugal.m3u8
 #EXTINF:-1 tvg-chno="366" tvg-id="Hot(src01).pt" tvg-name="Hot" tvg-logo="" group-title="Entretenimento" tvg-shift="+1",Hot
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/hot.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/hot.m3u8
 #EXTINF:-1 tvg-chno="0" tvg-id="(no tvg-id)" tvg-name="DATA - 2024-05-19" tvg-logo="" group-title="zTeste",DATA - 2024-05-19
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nbhbh545.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nbhbh545.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Teste1" tvg-logo="" group-title="zTeste",Teste1
-http://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/lb/1/sporttv1.m3u8
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/lb/1/sporttv1.m3u8
