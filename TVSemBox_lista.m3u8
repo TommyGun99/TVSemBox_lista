@@ -31,35 +31,40 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttvmais.m3
 #EXTINF:-1 tvg-chno="15" tvg-id="PortoCanal(src01).pt" tvg-name="PortoCanal" tvg-logo="" group-title="Generalistas/News",PortoCanal
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/portocanal.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="SportTV1(src01).pt" tvg-name="SportTV1[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1[Server1]
+#EXTINF:-1 tvg-chno="21" tvg-id="SportTV1(src01).pt" tvg-name="SportTV1 [Baixo Delay TESTES]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1 [Baixo Delay TESTES]
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv1.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="SportTV2(src01).pt" tvg-name="SportTV2 [Baixo Delay TESTES]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-2.png" group-title="Desporto",SportTV2 [Baixo Delay TESTES]
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv2.m3u8
+
+#EXTINF:-1 tvg-chno="21" tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1.m3u8
-#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1Backup[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1Backup[Server1]
-https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1backup.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="SportTV2(src01).pt" tvg-name="SportTV2[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-2.png" group-title="Desporto",SportTV2[Server1]
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_B_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_B_s1
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1_B.m3u8
+#EXTINF:-1 tvg-chno="22" tvg-id="SportTV2(src01).pt" tvg-name="SportTV2_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-2.png" group-title="Desporto",SportTV2_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
-#EXTINF:-1 tvg-chno="23" tvg-id="SportTV3(src01).pt" tvg-name="SportTV3[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-3.png" group-title="Desporto",SportTV3[Server1]
+#EXTINF:-1 tvg-chno="23" tvg-id="SportTV3(src01).pt" tvg-name="SportTV3_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-3.png" group-title="Desporto",SportTV3_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="SportTV4(src01).pt" tvg-name="SportTV4[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-4.png" group-title="Desporto",SportTV4[Server1]
+#EXTINF:-1 tvg-chno="24" tvg-id="SportTV4(src01).pt" tvg-name="SportTV4_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-4.png" group-title="Desporto",SportTV4_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv4.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV5[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-5.png" group-title="Desporto",SportTV5[Server1]
+#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV5_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-5.png" group-title="Desporto",SportTV5_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="SportTV6(src01).pt" tvg-name="SportTV6[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-6.png" group-title="Desporto",SportTV6[Server1]
+#EXTINF:-1 tvg-chno="26" tvg-id="SportTV6(src01).pt" tvg-name="SportTV6_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-6.png" group-title="Desporto",SportTV6_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="BTV1(src01).pt" tvg-name="BTV1[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1[Server1]
+#EXTINF:-1 tvg-chno="30" tvg-id="BTV1(src01).pt" tvg-name="BTV1_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="BTV1(src01).pt" tvg-name="BTV1Backup[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1Backup[Server1]
-https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1backup.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src01).pt" tvg-name="ElevenSports1[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",ElevenSports1[Server1]
+#EXTINF:-1 tvg-chno="30" tvg-id="BTV1(src01).pt" tvg-name="BTV1_B_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_B_s1
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_B.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src01).pt" tvg-name="ElevenSports1_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",ElevenSports1_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports1.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="ElevenSports2(src01).pt" tvg-name="ElevenSports2[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-2.png" group-title="Desporto",ElevenSports2[Server1]
+#EXTINF:-1 tvg-chno="32" tvg-id="ElevenSports2(src01).pt" tvg-name="ElevenSports2_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-2.png" group-title="Desporto",ElevenSports2_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports2.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="ElevenSports3(src01).pt" tvg-name="ElevenSports3[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-3.png" group-title="Desporto",ElevenSports3[Server1]
+#EXTINF:-1 tvg-chno="33" tvg-id="ElevenSports3(src01).pt" tvg-name="ElevenSports3_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-3.png" group-title="Desporto",ElevenSports3_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports3.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="ElevenSports4(src01).pt" tvg-name="ElevenSports4[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-4.png" group-title="Desporto",ElevenSports4[Server1]
+#EXTINF:-1 tvg-chno="34" tvg-id="ElevenSports4(src01).pt" tvg-name="ElevenSports4_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-4.png" group-title="Desporto",ElevenSports4_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports4.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="ElevenSports5(src01).pt" tvg-name="ElevenSports5[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-5.png" group-title="Desporto",ElevenSports5[Server1]
+#EXTINF:-1 tvg-chno="35" tvg-id="ElevenSports5(src01).pt" tvg-name="ElevenSports5_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-5.png" group-title="Desporto",ElevenSports5_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports5.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="ElevenSports6(src01).pt" tvg-name="ElevenSports6[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="Desporto",ElevenSports6[Server1]
+#EXTINF:-1 tvg-chno="36" tvg-id="ElevenSports6(src01).pt" tvg-name="ElevenSports6_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="Desporto",ElevenSports6_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports6.m3u8
 #EXTINF:-1 tvg-chno="38" tvg-id="EuroSport1(src01).pt" tvg-name="Eurosport1" tvg-logo="https://tudonumclick.com/imagens/tv/eurosport.png" group-title="Desporto",Eurosport1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/eurosport.m3u8
@@ -70,47 +75,47 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sportingtv.m3u
 #EXTINF:-1 tvg-chno="27" tvg-id="NBA(src01).pt" tvg-name="NBATV" tvg-logo="" group-title="Desporto",NBATV
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/nbatv.m3u8
 
-#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1[Server2]
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_s2
 http://lb2.tvsembox.com:80/hls/sporttv1.m3u8
-#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1Backup[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1Backup[Server2]
-http://lb2.tvsembox.com:80/hls/sporttv1backup.m3u8
-#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SportTV2[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-2.png" group-title="Desporto",SportTV2[Server2]
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_B_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_B_s2
+http://lb2.tvsembox.com:80/hls/sporttv1_B.m3u8
+#EXTINF:-1 tvg-id="SportTV2(src01).pt" tvg-name="SportTV2_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-2.png" group-title="Desporto",SportTV2_s2
 http://lb2.tvsembox.com:80/hls/sporttv2.m3u8
-#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SportTV3[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-3.png" group-title="Desporto",SportTV3[Server2]
+#EXTINF:-1 tvg-id="SportTV3(src01).pt" tvg-name="SportTV3_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-3.png" group-title="Desporto",SportTV3_s2
 http://lb2.tvsembox.com:80/hls/sporttv3.m3u8
-#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SportTV4[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-4.png" group-title="Desporto",SportTV4[Server2]
+#EXTINF:-1 tvg-id="SportTV4(src01).pt" tvg-name="SportTV4_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-4.png" group-title="Desporto",SportTV4_s2
 http://lb2.tvsembox.com:80/hls/sporttv4.m3u8
-#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SportTV5[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-5.png" group-title="Desporto",SportTV5[Server2]
+#EXTINF:-1 tvg-id="SportTV5(src01).pt" tvg-name="SportTV5_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-5.png" group-title="Desporto",SportTV5_s2
 http://lb2.tvsembox.com:80/hls/sporttv5.m3u8
-#EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="SportTV6[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-6.png" group-title="Desporto",SportTV6[Server2]
+#EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="SportTV6_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-6.png" group-title="Desporto",SportTV6_s2
 http://lb2.tvsembox.com:80/hls/sporttv6.m3u8
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1[Server2]
+#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_s2
 http://lb2.tvsembox.com:80/hls/btv1.m3u8
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1Backup[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1Backup[Server2]
-http://lb2.tvsembox.com:80/hls/btv1backup.m3u8
-#EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src01).pt" tvg-name="ElevenSports1[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",ElevenSports1[Server2]
+#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_B_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_B_s2
+http://lb2.tvsembox.com:80/hls/btv1_B.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src01).pt" tvg-name="ElevenSports1_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",ElevenSports1_s2
 http://lb2.tvsembox.com:80/hls/elevensports1.m3u8
-#EXTINF:-1 tvg-chno="32" tvg-id="ElevenSports2(src01).pt" tvg-name="ElevenSports2[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-2.png" group-title="Desporto",ElevenSports2[Server2]
+#EXTINF:-1 tvg-chno="32" tvg-id="ElevenSports2(src01).pt" tvg-name="ElevenSports2_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-2.png" group-title="Desporto",ElevenSports2_s2
 http://lb2.tvsembox.com:80/hls/elevensports2.m3u8
-#EXTINF:-1 tvg-chno="33" tvg-id="ElevenSports3(src01).pt" tvg-name="ElevenSports3[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-3.png" group-title="Desporto",ElevenSports3[Server2]
+#EXTINF:-1 tvg-chno="33" tvg-id="ElevenSports3(src01).pt" tvg-name="ElevenSports3_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-3.png" group-title="Desporto",ElevenSports3_s2
 http://lb2.tvsembox.com:80/hls/elevensports3.m3u8
-#EXTINF:-1 tvg-chno="34" tvg-id="ElevenSports4(src01).pt" tvg-name="ElevenSports4[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-4.png" group-title="Desporto",ElevenSports4[Server2]
+#EXTINF:-1 tvg-chno="34" tvg-id="ElevenSports4(src01).pt" tvg-name="ElevenSports4_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-4.png" group-title="Desporto",ElevenSports4_s2
 http://lb2.tvsembox.com:80/hls/elevensports4.m3u8
-#EXTINF:-1 tvg-chno="35" tvg-id="ElevenSports5(src01).pt" tvg-name="ElevenSports5[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-5.png" group-title="Desporto",ElevenSports5[Server2]
+#EXTINF:-1 tvg-chno="35" tvg-id="ElevenSports5(src01).pt" tvg-name="ElevenSports5_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-5.png" group-title="Desporto",ElevenSports5_s2
 http://lb2.tvsembox.com:80/hls/elevensports5.m3u8
-#EXTINF:-1 tvg-chno="36" tvg-id="ElevenSports6(src01).pt" tvg-name="ElevenSports6[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="Desporto",ElevenSports6[Server2]
+#EXTINF:-1 tvg-chno="36" tvg-id="ElevenSports6(src01).pt" tvg-name="ElevenSports6_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="Desporto",ElevenSports6_s2
 http://lb2.tvsembox.com:80/hls/elevensports6.m3u8
 
-#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_300kbps[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_300kbps[Server1]
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_300kbps_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_300kbps_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1_300kbps.m3u8
-#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_300kbps[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_300kbps[Server2]
+#EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_300kbps_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_300kbps_s2
 http://lb2.tvsembox.com:80/hls/sporttv1_300kbps.m3u8
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_300kbps[Server1.2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_300kbps[Server1.2]
 http://51.159.106.214/hls/sporttv1_300kbps.m3u8
 
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_300kbps[Server1]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_300kbps[Server1]
+#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_300kbps_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_300kbps_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_300kbps.m3u8
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_300kbps[Server2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_300kbps[Server2]
+#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_300kbps_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_300kbps_s2
 http://lb2.tvsembox.com:80/hls/btv1_300kbps.m3u8
 #EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV1_300kbps[Server1.2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV1_300kbps[Server1.2]
 http://51.159.106.214/hls/btv1_300kbps.m3u8
