@@ -50,9 +50,9 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv4.m3u8
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="SportTV6(src01).pt" tvg-name="SportTV6_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-6.png" group-title="Desporto",SportTV6_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="BTV1(src01).pt" tvg-name="BTV_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_s1
+#EXTINF:-1 tvg-chno="30" tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
-#EXTINF:-1 tvg-chno="30" tvg-id="BTV1(src01).pt" tvg-name="BTV_B_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_B_s1
+#EXTINF:-1 tvg-chno="30" tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV_B_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_B_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_B.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven1_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",Eleven1_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensports1.m3u8
@@ -89,9 +89,9 @@ http://lb2.tvsembox.com:80/hls/sporttv4.m3u8
 http://lb2.tvsembox.com:80/hls/sporttv5.m3u8
 #EXTINF:-1 tvg-id="SportTV6(src01).pt" tvg-name="SportTV6_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-6.png" group-title="Desporto",SportTV6_s2
 http://lb2.tvsembox.com:80/hls/sporttv6.m3u8
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_s2
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_s2
 http://lb2.tvsembox.com:80/hls/btv1.m3u8
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV_B_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_B_s2
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV_B_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_B_s2
 http://lb2.tvsembox.com:80/hls/btv1_B.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="ElevenSports1(src01).pt" tvg-name="Eleven1_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",Eleven1_s2
 http://lb2.tvsembox.com:80/hls/elevensports1.m3u8
@@ -113,11 +113,11 @@ http://lb2.tvsembox.com:80/hls/sporttv1_300kbps.m3u8
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SportTV1_300kbps[Server1.2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sport-tv-1.png" group-title="Desporto",SportTV1_300kbps[Server1.2]
 http://51.159.106.214/hls/sporttv1_300kbps.m3u8
 
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV_300kbps_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_300kbps_s1
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV_300kbps_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_300kbps_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_300kbps.m3u8
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV_300kbps_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_300kbps_s2
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV_300kbps_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_300kbps_s2
 http://lb2.tvsembox.com:80/hls/btv1_300kbps.m3u8
-#EXTINF:-1 tvg-id="BTV1(src01).pt" tvg-name="BTV_300kbps[Server1.2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_300kbps[Server1.2]
+#EXTINF:-1 tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV_300kbps[Server1.2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV_300kbps[Server1.2]
 http://51.159.106.214/hls/btv1_300kbps.m3u8
 
 #EXTINF:-1 tvg-chno="40" tvg-id="DisneyChannel(src01).pt" tvg-name="DisneyChannel" tvg-logo="" group-title="Kids",DisneyChannel
