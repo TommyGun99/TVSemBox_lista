@@ -219,19 +219,6 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/pfc.m3u8
 #EXTINF:-1 tvg-chno="192" tvg-id="RECORDNEWS(src01).pt" tvg-name="TV Record PT" tvg-logo="" group-title="Generalistas/News",TV Record PT
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvrecordportugal.m3u8
 
-#EXTINF:-1 tvg-name="SportTV1_300kbps_s1" tvg-logo="http://tiny.cc/sporttv1png" group-title="zTeste",SportTV1_300kbps_s1
-https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1_300kbps.m3u8
-#EXTINF:-1 tvg-name="SportTV1_300kbps_s2" tvg-logo="http://tiny.cc/sporttv1png" group-title="zTeste",SportTV1_300kbps_s2
-http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1_300kbps.m3u8
-#EXTINF:-1 tvg-name="SportTV1_300kbps[Server1.2]" tvg-logo="http://tiny.cc/sporttv1png" group-title="zTeste",SportTV1_300kbps[Server1.2]
-http://51.159.106.214/hls/sporttv1_300kbps.m3u8
-
-#EXTINF:-1 tvg-name="BTV_300kbps_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="zTeste",BTV_300kbps_s1
-https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_300kbps.m3u8
-#EXTINF:-1 tvg-name="BTV_300kbps_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="zTeste",BTV_300kbps_s2
-http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_300kbps.m3u8
-#EXTINF:-1 tvg-name="BTV_300kbps[Server1.2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="zTeste",BTV_300kbps[Server1.2]
-http://51.159.106.214/hls/btv1_300kbps.m3u8
 
 #EXTINF:-1 tvg-chno="366" tvg-id="Hot(src01).pt" tvg-name="Hot" tvg-logo="" group-title="Entretenimento" tvg-shift="+1",Hot
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/hot.m3u8
@@ -260,3 +247,17 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/ele
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/elevensports5.m3u8
 #EXTINF:-1 tvg-chno="1036" tvg-id="ElevenSports6(src01).pt" tvg-name="Eleven6 [low_delay]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="zTeste",Eleven6 [low_delay]
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/elevensports6.m3u8
+
+#EXTINF:-1 tvg-name="SportTV1_300kbps_s1" tvg-logo="http://tiny.cc/sporttv1png" group-title="zTeste",SportTV1_300kbps_s1
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1_300kbps.m3u8
+#EXTINF:-1 tvg-name="SportTV1_300kbps_s2" tvg-logo="http://tiny.cc/sporttv1png" group-title="zTeste",SportTV1_300kbps_s2
+http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1_300kbps.m3u8
+#EXTINF:-1 tvg-name="SportTV1_300kbps[Server1.2]" tvg-logo="http://tiny.cc/sporttv1png" group-title="zTeste",SportTV1_300kbps[Server1.2]
+http://51.159.106.214/hls/sporttv1_300kbps.m3u8
+
+#EXTINF:-1 tvg-name="BTV_300kbps_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="zTeste",BTV_300kbps_s1
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_300kbps.m3u8
+#EXTINF:-1 tvg-name="BTV_300kbps_s2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="zTeste",BTV_300kbps_s2
+http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1_300kbps.m3u8
+#EXTINF:-1 tvg-name="BTV_300kbps[Server1.2]" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="zTeste",BTV_300kbps[Server1.2]
+http://51.159.106.214/hls/btv1_300kbps.m3u8
