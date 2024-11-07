@@ -1,0 +1,269 @@
+#EXTM3U url-tvg=""
+#EXTINF:-1 tvg-id="" tvg-name="Vila Praia de Âncora" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Vila Praia de Âncora
+https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esposende" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Esposende
+https://video-auth1.iol.pt/beachcam/bcesposende/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ofir" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Ofir
+https://video-auth1.iol.pt/beachcam/bcofir/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Leça da Palmeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Leça da Palmeira
+https://video-auth1.iol.pt/beachcam/lecadapalmeira/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Matosinhos" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Matosinhos
+https://video-auth1.iol.pt/beachcam/matosinhos/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MATOSINHOS _ CAM 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surfline.jpg" group-title="Norte",MATOSINHOS _ CAM 2
+https://cams.cdn-surfline.com/cdn-int/pt-matosinhos/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto _ Homem do Leme" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Porto _ Homem do Leme
+https://video-auth1.iol.pt/beachcam/bchomemdoleme/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Porto _ Carneiro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Porto _ Carneiro
+https://video-auth1.iol.pt/beachcam/bccarneiro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia Canide Norte _ Sul" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Praia Canide Norte _ Sul
+https://video-auth1.iol.pt/beachcam/bccanidelo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Espinho" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Espinho
+https://video-auth1.iol.pt/beachcam/espinho/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esmoriz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Norte",Esmoriz
+https://video-auth1.iol.pt/beachcam/esmoriz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VIANA DO CASTELO _ CABEDELO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surfline.jpg" group-title="Norte",VIANA DO CASTELO _ CABEDELO
+https://cams.cdn-surfline.com/cdn-int/pt-viana/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Furadouro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Furadouro
+https://video-auth1.iol.pt/beachcam/furadouro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Torreira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Praia da Torreira
+https://video-auth1.iol.pt/beachcam/torreira/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Barra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Praia da Barra
+https://video-auth1.iol.pt/beachcam/aveiro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa Nova" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Costa Nova
+https://video-auth1.iol.pt/beachcam/costanova/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia de Mira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Praia de Mira
+https://video-auth1.iol.pt/beachcam/bcmira/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Tocha" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Praia da Tocha
+https://video-auth1.iol.pt/beachcam/tocha/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Murtinheira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Murtinheira
+https://video-auth1.iol.pt/beachcam/bcmurtinheira/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Figueira da Foz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Figueira da Foz
+https://video-auth1.iol.pt/beachcam/figueiradafoz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Figueira da Foz _ Buarcos" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Figueira da Foz _ Buarcos
+https://video-auth1.iol.pt/beachcam/bcfigueiradois/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Figueira da Foz _ Cabedelo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Figueira da Foz _ Cabedelo
+https://video-auth1.iol.pt/beachcam/cabedelo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia Osso da Baleia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Praia Osso da Baleia
+https://video-auth1.iol.pt/beachcam/ossodabaleia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Pedrógão" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Praia do Pedrógão
+https://video-auth1.iol.pt/beachcam/praiapedrogao/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Vieira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Centro",Praia da Vieira
+https://video-auth1.iol.pt/beachcam/bcvieira/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="São Pedro de Moel" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",São Pedro de Moel
+https://video-auth1.iol.pt/beachcam/bcsaopedromoel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré _ Forte S. Miguel Arcanjo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Nazaré _ Forte S. Miguel Arcanjo
+https://video-auth1.iol.pt/beachcam/bcarcanjo3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré _ Forte S. Miguel Arcanjo Panorâmica" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Nazaré _ Forte S. Miguel Arcanjo Panorâmica
+https://video-auth1.iol.pt/beachcam/bcarcanjo2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré _ Forte S. Miguel Arcanjo _ Baía" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Nazaré _ Forte S. Miguel Arcanjo _ Baía
+https://video-auth1.iol.pt/beachcam/bcarcanjo1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré _ Praia do Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Nazaré _ Praia do Norte
+https://video-auth1.iol.pt/beachcam/canhaonazare/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré _ Praia do Norte panorâmica" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Nazaré _ Praia do Norte panorâmica
+https://video-auth1.iol.pt/beachcam/nazareparadonorte/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré _ Praia da Vila" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Nazaré _ Praia da Vila
+https://video-auth1.iol.pt/beachcam/nazarepraiadavila/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nazaré _ Porto de Abrigo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Nazaré _ Porto de Abrigo
+https://video-auth1.iol.pt/beachcam/bcportodeabrigo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Foz do Arelho" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Foz do Arelho
+https://video-auth1.iol.pt/beachcam/bcfozdoarelho/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peniche _ Lagide" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Peniche _ Lagide
+https://video-auth1.iol.pt/beachcam/lagide/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peniche _ Supertubos" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Peniche _ Supertubos
+https://video-auth1.iol.pt/beachcam/supertubos/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PENICHE _ PRAIA BALEAL" tvg-logo="https://cdn4.iconfinder.com/data/icons/zeir-miscellaneous-004/64/live_video_camera_broadcast-512.png" group-title="Costa Oeste",PENICHE _ PRAIA BALEAL
+https://5e0add8153fcstreamlock.net:1936/vedetta/baleal.stream/chunklist_w1948406885.m3u8?44
+#EXTINF:-1 tvg-id="" tvg-name="Areia Branca" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Areia Branca
+https://video-auth1.iol.pt/beachcam/bcareiabranca/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia de Santa Rita" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Praia de Santa Rita
+https://video-auth1.iol.pt/beachcam/vimeiro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Santa Cruz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Santa Cruz
+https://video-auth1.iol.pt/beachcam/santacruz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Santa Cruz _ Praia Azul" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Costa Oeste",Santa Cruz _ Praia Azul
+https://video-auth1.iol.pt/beachcam/bcpraiaazul/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRAIA AZUL _ TORRES VEDRAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surfline.jpg" group-title="Costa Oeste",PRAIA AZUL _ TORRES VEDRAS
+https://cams.cdn-surfline.com/cdn-int/pt-praiaazul/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Calada" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Mafra",Praia da Calada
+https://video-auth1.iol.pt/beachcam/praiadacalada/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="São Lourenço" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Mafra",São Lourenço
+https://video-auth1.iol.pt/beachcam/saolourenco/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ribeira D'Ilhas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Mafra",Ribeira D'Ilhas
+https://video-auth1.iol.pt/beachcam/ribeiradilhas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ericeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Mafra",Ericeira
+https://video-auth1.iol.pt/beachcam/ericeiraspots/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Matadouro + SkatePark" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Mafra",Matadouro + SkatePark
+https://video-auth1.iol.pt/beachcam/matadouroskatepark/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia dos Pescadores" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Mafra",Praia dos Pescadores
+https://video-auth1.iol.pt/beachcam/bcpescadores/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ericeira _ Praia do Sul" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Mafra",Ericeira _ Praia do Sul
+https://video-auth1.iol.pt/beachcam/praiadosulericeira/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Foz do Lizandro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Mafra",Foz do Lizandro
+https://video-auth1.iol.pt/beachcam/fozdolizandro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Maçãs" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Sintra",Praia das Maçãs
+https://video-auth1.iol.pt/beachcam/praiadasmacas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia Pequena" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Sintra",Praia Pequena
+https://video-auth1.iol.pt/beachcam/bcpraiapequena/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia Grande _ Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Sintra",Praia Grande _ Norte
+https://video-auth1.iol.pt/beachcam/praiagrande/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PRAIA PEQUENA _ SINTRA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surfline.jpg" group-title="Sintra",PRAIA PEQUENA _ SINTRA
+https://cams.cdn-surfline.com/cdn-int/pt-praiapequena/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia Grande _ Sul" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Sintra",Praia Grande _ Sul
+https://video-auth1.iol.pt/beachcam/praiagrande2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Guincho _ Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Praia do Guincho _ Norte
+https://video-auth1.iol.pt/beachcam/praiaguinchonorte/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Guincho _ Sul" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Praia do Guincho _ Sul
+https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Cresmina" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Praia da Cresmina
+https://video-auth1.iol.pt/beachcam/crismina/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baía de Cascais" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Baía de Cascais
+https://video-auth1.iol.pt/beachcam/praiadospescadores/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Conceição e Duquesa" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Praia da Conceição e Duquesa
+https://video-auth1.iol.pt/beachcam/conceicao/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Moitas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Praia das Moitas
+https://video-auth1.iol.pt/beachcam/moitas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tamariz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Tamariz
+https://video-auth1.iol.pt/beachcam/tamariz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="São João do Estoril" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",São João do Estoril
+https://video-auth1.iol.pt/beachcam/saojoaodoestoril/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="São Pedro do Estoril" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",São Pedro do Estoril
+http://video-auth1.iol.pt:1935/beachcam/saopedroestoria/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Avencas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Praia das Avencas
+https://video-auth1.iol.pt/beachcam/praiadasavencas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Parede" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Parede
+https://video-auth1.iol.pt/beachcam/parede/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Carcavelos" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Carcavelos
+https://video-auth1.iol.pt/beachcam/carcavelos/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Carcavelos _ Calhau" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Cascais",Carcavelos _ Calhau
+https://video-auth1.iol.pt/beachcam/carcavelos2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Torre" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Oeiras",Praia da Torre
+https://video-auth1.iol.pt/beachcam/bctorre/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Santo Amaro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Oeiras",Santo Amaro
+https://video-auth1.iol.pt/beachcam/santoamaro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paço de Arcos" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Oeiras",Paço de Arcos
+https://video-auth1.iol.pt/beachcam/parcos/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caxias" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Oeiras",Caxias
+https://video-auth1.iol.pt/beachcam/caxias/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica _ S. João" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Almada",Costa de Caparica _ S. João
+https://video-auth1.iol.pt/beachcam/costacaparicasaojoao/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica _ CDS Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Almada",Costa de Caparica _ CDS Norte
+https://video-auth1.iol.pt/beachcam/costacaparicacds/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica _ CDS Sul" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Almada",Costa de Caparica _ CDS Sul
+https://video-auth1.iol.pt/beachcam/costacaparicabernard/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COSTA DA CAPARICA _ BARBAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surfline.jpg" group-title="Almada",COSTA DA CAPARICA _ BARBAS
+https://cams.cdn-surfline.com/cdn-int/pt-barbas/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica _ Praia Nova" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Almada",Costa de Caparica _ Praia Nova
+https://video-auth1.iol.pt/beachcam/bccaparicanovapraia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica _ Riviera" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Almada",Costa de Caparica _ Riviera
+https://video-auth1.iol.pt/beachcam/riviera/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Costa de Caparica _ Cabana do Pescador" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Almada",Costa de Caparica _ Cabana do Pescador
+https://video-auth1.iol.pt/beachcam/bccabanadopescador/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fonte da Telha" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Almada",Fonte da Telha
+https://video-auth1.iol.pt/beachcam/fontedatelha/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lagoa de Albufeira" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Sesimbra",Lagoa de Albufeira
+https://video-auth1.iol.pt/beachcam/bclagoaalbufeira/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Meco" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Sesimbra",Praia do Meco
+https://video-auth1.iol.pt/beachcam/bcmeco/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Bicas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Sesimbra",Praia das Bicas
+https://video-auth1.iol.pt/beachcam/bcpraiadasbicas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia Sesimbra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Sesimbra",Praia Sesimbra
+https://video-auth1.iol.pt/beachcam/sesimbra/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Portinho da Arrábida" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Setúbal",Portinho da Arrábida
+https://video-auth1.iol.pt/beachcam/bcportinho/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Albarquel" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Setúbal",Albarquel
+https://video-auth1.iol.pt/beachcam/bcalbarquel/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SETÚBAL _ PRAIA DO PEGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Surfline.jpg" group-title="Setúbal",SETÚBAL _ PRAIA DO PEGO
+https://cams.cdn-surfline.com/cdn-int/pt-comporta/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Troia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",Troia
+https://video-auth1.iol.pt/beachcam/bctroia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comporta" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",Comporta
+https://video-auth1.iol.pt/beachcam/bccomporta/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Carvalhal" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",Praia do Carvalhal
+https://video-auth1.iol.pt/beachcam/carvalhal/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lagoa de Santo André" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",Lagoa de Santo André
+https://video-auth1.iol.pt/beachcam/bcsantoandre/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="S. Torpes" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",S. Torpes
+https://video-auth1.iol.pt/beachcam/saotorpes/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vila Nova de Milfontes _ Franquia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",Vila Nova de Milfontes _ Franquia
+https://video-auth1.iol.pt/beachcam/bcfranquia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vila Nova de Milfontes _ Farol" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",Vila Nova de Milfontes _ Farol
+https://video-auth1.iol.pt/beachcam/bcfarol/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vila Nova de Milfontes _ Furnas Mar" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",Vila Nova de Milfontes _ Furnas Mar
+https://video-auth1.iol.pt/beachcam/furnasmar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Almograve" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",Almograve
+https://video-auth1.iol.pt/beachcam/bcalmograve/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zambujeira do Mar" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Alentejo",Zambujeira do Mar
+https://video-auth1.iol.pt/beachcam/zambujeira/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Odeceixe" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Odeceixe
+https://video-auth1.iol.pt/beachcam/bcodeceixe/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Monte Clérigo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Monte Clérigo
+https://video-auth1.iol.pt/beachcam/bcmonteclerigo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arrifana" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Arrifana
+https://video-auth1.iol.pt/beachcam/arrifana/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Amado" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Praia do Amado
+https://video-auth1.iol.pt/beachcam/bcamado/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAGRES" tvg-logo="https://i.imgur.com/PzeLlzw.png" group-title="Algarve",SAGRES
+https://camsecure.co/HLS/sagressholidays.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Luz" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Praia da Luz
+https://video-auth1.iol.pt/beachcam/luz/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meia Praia" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Meia Praia
+https://video-auth1.iol.pt/beachcam/meiapraia/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alvor" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Alvor
+https://video-auth1.iol.pt/beachcam/alvor/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alvor Nascente" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Alvor Nascente
+https://video-auth1.iol.pt/beachcam/bcalvornascente/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Rocha" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Praia da Rocha
+https://video-auth1.iol.pt/beachcam/praiadarocha/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ferragudo _ Praia Grande" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Ferragudo _ Praia Grande
+https://video-auth1.iol.pt/beachcam/ferragudo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Carvoeiro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Carvoeiro
+https://video-auth1.iol.pt/beachcam/carvoeiro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Senhora da Rocha e Praia Nova" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Senhora da Rocha e Praia Nova
+https://video-auth1.iol.pt/beachcam/bcigreja/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Armação de Pêra" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Armação de Pêra
+https://video-auth1.iol.pt/beachcam/armacaodepera/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia da Galé" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Praia da Galé
+https://video-auth1.iol.pt/beachcam/bcgale/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia do Peneco" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Praia do Peneco
+https://video-auth1.iol.pt/beachcam/praiadopeneco/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Vilamoura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Vilamoura
+https://video-auth1.iol.pt/beachcam/vilamoura/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Faro" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Faro
+https://video-auth1.iol.pt/beachcam/bcfaro/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alagoa _ Altura" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Alagoa _ Altura
+https://video-auth1.iol.pt/beachcam/bcalagoa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Praia Verde _ Castro Marim" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Algarve",Praia Verde _ Castro Marim
+https://video-auth1.iol.pt/beachcam/bcpraiaverde/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madeira _ Ponta Pequena _ Paul" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Ilhas",Madeira _ Ponta Pequena _ Paul
+https://video-auth1.iol.pt/beachcam/madeirajardimdomar/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madeira _ Jardim do Mar" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Ilhas",Madeira _ Jardim do Mar
+https://video-auth1.iol.pt/beachcam/jardimdomardois/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Madeira _ Porto Santo" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Ilhas",Madeira _ Porto Santo
+https://video-auth1.iol.pt/beachcam/bcportosanto/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MADEIRA _ BARREIRINHA BEACH" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" group-title="Ilhas",MADEIRA _ BARREIRINHA BEACH
+plugin://plugin.video.youtube/play/?video_id=4J1YwwaZx4I
+#EXTINF:-1 tvg-id="" tvg-name="MADEIRA _ PORTO MONIZ" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" group-title="Ilhas",MADEIRA _ PORTO MONIZ
+plugin://plugin.video.youtube/play/?video_id=qUB8_lgA_54
+#EXTINF:-1 tvg-id="" tvg-name="MADEIRA _ PRAIA DA PONTA GORDA" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" group-title="Ilhas",MADEIRA _ PRAIA DA PONTA GORDA
+plugin://plugin.video.youtube/play/?video_id=MgMWOQIgIBY
+#EXTINF:-1 tvg-id="" tvg-name="MADEIRA _ PRAIA DOS REIS MAGOS" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" group-title="Ilhas",MADEIRA _ PRAIA DOS REIS MAGOS
+plugin://plugin.video.youtube/play/?video_id=390TSjCuRNU
+#EXTINF:-1 tvg-id="" tvg-name="MADEIRA _ PRAIA FORMOSA" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" group-title="Ilhas",MADEIRA _ PRAIA FORMOSA
+plugin://plugin.video.youtube/play/?video_id=M7YZttymLKI
+#EXTINF:-1 tvg-id="" tvg-name="Praia das Rocas" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Fluviais/piscinas",Praia das Rocas
+https://video-auth1.iol.pt/beachcam/praiadasrocas/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ria de Aveiro _ Murtosa" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Lagos/rios",Ria de Aveiro _ Murtosa
+https://video-auth1.iol.pt/beachcam/murtosa/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ferreira do Zêzere _ Cable Park" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Lagos/rios",Ferreira do Zêzere _ Cable Park
+https://video-auth1.iol.pt/beachcam/bccableferreira/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ferreira do Zêzere _ Lago Azul" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Lagos/rios",Ferreira do Zêzere _ Lago Azul
+https://video-auth1.iol.pt/beachcam/bclagoazul/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ferreira do Zêzere _ Dornes" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Lagos/rios",Ferreira do Zêzere _ Dornes
+https://video-auth1.iol.pt/beachcam/bcdornes/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lisboa _ Cais do Sodré" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Lagos/rios",Lisboa _ Cais do Sodré
+https://video-auth1.iol.pt/beachcam/caisdosodre/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lisboa _ Belém" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Lagos/rios",Lisboa _ Belém
+https://video-auth1.iol.pt/beachcam/belem/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Farol do Bugio Norte" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Lagos/rios",Farol do Bugio Norte
+https://video-auth1.iol.pt/beachcam/bcbugio1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Farol do Bugio Sul" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png" group-title="Lagos/rios",Farol do Bugio Sul
+https://video-auth1.iol.pt/beachcam/bcbugio2/playlist.m3u8
