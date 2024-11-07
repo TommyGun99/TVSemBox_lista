@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/3m97yppj87h5319zydxq"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PT1.xml.gz"
 
 #EXTINF:-1 tvg-chno="1" tvg-id="RTP1(src01).pt" tvg-name="RTP1" tvg-logo="" group-title="Generalistas/News",RTP1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/rtp1.m3u8
