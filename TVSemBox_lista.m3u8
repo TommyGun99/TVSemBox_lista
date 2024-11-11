@@ -41,7 +41,7 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/spo
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="SportTV4(src01).pt" tvg-name="SportTV4 [low_delay]" tvg-logo="http://tiny.cc/sporttv4png" group-title="Desporto",SportTV4 [low_delay]
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv4.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV5 [low_delay]" tvg-logo="http://tiny.cc/sporttv5png" group-title="zTeste",SportTV5 [low_delay]
+#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV5 [low_delay]" tvg-logo="http://tiny.cc/sporttv5png" group-title="Desporto",SportTV5 [low_delay]
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv5.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="SportTV6(src01).pt" tvg-name="SportTV6_s1" tvg-logo="http://tiny.cc/sporttv6png" group-title="Desporto",SportTV6_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
