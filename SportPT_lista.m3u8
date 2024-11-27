@@ -35,8 +35,8 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/spo
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv3.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="SportTV4(src01).pt" tvg-name="SportTV4 [low_delay]" tvg-logo="http://tiny.cc/sporttv4png" group-title="2PT_TVSemBox",SportTV4 [low_delay]
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv4.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV5_s1" tvg-logo="http://tiny.cc/sporttv5png" group-title="2PT_TVSemBox",SportTV5_s1
-https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV5 [low_delay]" tvg-logo="http://tiny.cc/sporttv5png" group-title="2PT_TVSemBox",SportTV5 [low_delay]
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv5.m3u8
 #EXTINF:-1 tvg-chno="26" tvg-id="SportTV6(src01).pt" tvg-name="SportTV6_s1" tvg-logo="http://tiny.cc/sporttv6png" group-title="2PT_TVSemBox",SportTV6_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv6.m3u8
 #EXTINF:-1 tvg-chno="27" tvg-id="SportTV7(src01).pt" tvg-name="SportTV7_s1" tvg-logo="http://tiny.cc/sporttv7png" group-title="2PT_TVSemBox",SportTV7_s1
@@ -64,6 +64,8 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv1_B.m3u
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv2.m3u8
 #EXTINF:-1 tvg-chno="24" tvg-id="SportTV4(src01).pt" tvg-name="SportTV4_s1" tvg-logo="http://tiny.cc/sporttv4png" group-title="2PT_TVSemBox",SportTV4_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv4.m3u8
+#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV5_s1" tvg-logo="http://tiny.cc/sporttv5png" group-title="2PT_TVSemBox",SportTV5_s1
+https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttv5.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="2PT_TVSemBox",BTV_s1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/btv1.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV_B_s1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="2PT_TVSemBox",BTV_B_s1
@@ -105,25 +107,27 @@ http://lb2_s1.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/elevensport
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Formula 1 Channel" tvg-logo="https://images.pluto.tv/channels/65c69ee3d77d450008c80438/colorLogoPNG.png" group-title="Other Stuff",Formula 1 Channel
-https://jmp2.uk/PlutoTV/65c69ee3d77d450008c80438-alt.m3u8
+https://tinyurl.com/PlutoUSF1
+#EXTINF:-1 tvg-id="" tvg-name="Golazo Network" tvg-logo="https://images.pluto.tv/channels/63a0e33a45264d000850ed7e/colorLogoPNG_1731835813404.png" group-title="Other Stuff", Golazo Network
+https://tinyurl.com/PlutoUSGolazo
 #EXTINF:0 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f477c6bf-6e85-45d0-bd00-cf1f31e4906a/1091_surfnowtv_1.png" group-title="Other Stuff",SURF NOW TV
-https://jmp2.uk/SamsungTVPlus/USBB10000058A.m3u8
+https://jmp2.uk/sam-USBB10000058A.m3u8
 #EXTINF:0 tvg-id="" tvg-logo="https://provider-static.plex.tv/epg/cms/production/4d412f7b-1d40-4032-a61a-b97d5f56951a/Surfer_Dark_BG_-_Geoff_Clark.png" group-title="Other Stuff",SURFER
-https://jmp2.uk/Plex/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8
 #EXTINF:0 tvg-id="SurfChannel.es" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000460_20220323T082117SQUARE.png_20220323082120.png" group-title="Other Stuff",Surf Channel
-https://jmp2.uk/SamsungTVPlus/ESBA140000460.m3u8
+https://jmp2.uk/sam-ESBA140000460.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Gear (USA SamsungTV+)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20230627T214919SQUARE.png_20230627214920.png" group-title="Other Stuff",Top Gear (USA SamsungTV+)
-https://jmp2.uk/SamsungTVPlus/USBC2400027NG.m3u8
+https://jmp2.uk/sam-USBC2400027NG.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Gear (USA PlutoTV)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2400027NG_20230627T214919SQUARE.png_20230627214920.png" group-title="Other Stuff",Top Gear (USA PlutoTV)
-https://jmp2.uk/PlutoTV/636adc255bcf470007d6e0e2-alt.m3u8
+https://tinyurl.com/PlutoUSTG
 #EXTINF:-1 tvg-id="" tvg-name="Mythbusters (UK SamsungTV+)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200005LI_20240228T030549SQUARE.png_20240228030550.png" group-title="Other Stuff",Mythbusters (UK SamsungTV+)
-https://jmp2.uk/SamsungTVPlus/GB200005LI.m3u8
+https://jmp2.uk/sam-GB200005LI.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Mythbusters (UK PlutoTV)" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB200005LI_20240228T030549SQUARE.png_20240228030550.png" group-title="Other Stuff",Mythbusters (UK PlutoTV)
-https://jmp2.uk/PlutoTV/5bd833b41843b56328bac189-alt.m3u8
+https://tinyurl.com/PlutoUKMb
 #EXTINF:-1 tvg-id="" tvg-name="Top Gear (CA SamsungTV+)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300004A4_20230926T000710SQUARE.png_20230926000711.png" group-title="Other Stuff",Top Gear (CA SamsungTV+)
-https://jmp2.uk/SamsungTVPlus/CABC2300004A4.m3u8
+https://jmp2.uk/sam-CABC2300004A4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Top Gear (CA PlutoTV)" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300004A4_20230926T000710SQUARE.png_20230926000711.png" group-title="Other Stuff",Top Gear (CA PlutoTV)
-https://jmp2.uk/PlutoTV/638e10220aa6a6000726979f-alt.m3u8
+https://tinyurl.com/PlutoCaTG
 #EXTINF:-1 tvg-id="" tvg-name="TOP GEAR" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/Top-Gear-Logo.png" group-title="Other Stuff",TOP GEAR
 https://d3mpi5qa5otpo5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i0am1w3cs6gml-ssai-prd/playlist.m3u8
 
@@ -156,9 +160,9 @@ https://videos.footballia.net/uploads/video/source_file/50450/2023BenScp_1a.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20230115.LP.Benfica-Sporting.Pt2" tvg-logo="https://footballia.net/cache/matches/fdb4e4ffe617f7844a4cf583bea7705f.png" group-title="Benfica jogos",20230115.LP.Benfica-Sporting.Pt2
 https://videos.footballia.net/uploads/video/source_file/50453/2023BenScp_2a.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20230506.LP.Benfica-Braga.Pt1" tvg-logo="https://sitesdeapostas.bet/wp-content/uploads/2020/11/photo4981203225252309281-994x559.jpg" group-title="Benfica jogos",20230506.LP.Benfica-Braga.Pt1
-https://myfiles.debrid.it/4nu4llafd5/links/20230506_SLBenfica_x_SCBraga_Liga_Portugal_BTV_1st_half.mp4
+https://myfiles.debrid.it/4detau4rd6/links/20230506_SLBenfica_x_SCBraga_Liga_Portugal_BTV_1st_half.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20230506.LP.Benfica-Braga.Pt2" tvg-logo="https://sitesdeapostas.bet/wp-content/uploads/2020/11/photo4981203225252309281-994x559.jpg" group-title="Benfica jogos",20230506.LP.Benfica-Braga.Pt2
-https://myfiles.debrid.it/4nu4llafd5/links/20230506_SLBenfica_x_SCBraga_Liga_Portugal_BTV_2nd_half.mp4
+https://myfiles.debrid.it/4detau4rd6/links/20230506_SLBenfica_x_SCBraga_Liga_Portugal_BTV_2nd_half.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20230521.LP.Sporting-Benfica.Pt1" tvg-logo="https://footballia.net/cache/matches/3652a5a2ffdd2da77750acc0a91d0a8b.png" group-title="Benfica jogos",20230521.LP.Sporting-Benfica.Pt1
 https://videos.footballia.net/uploads/video/source_file/53391/2023ScpBen_1a.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20230521.LP.Sporting-Benfica.Pt2" tvg-logo="https://footballia.net/cache/matches/3652a5a2ffdd2da77750acc0a91d0a8b.png" group-title="Benfica jogos",20230521.LP.Sporting-Benfica.Pt2
@@ -166,23 +170,23 @@ https://videos.footballia.net/uploads/video/source_file/53392/2023ScpBen_2a.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20230809.ST.Benfica-Porto" tvg-logo="https://s3.observador.pt/wp-content/uploads/2023/08/09120021/whatsapp-image-2023-08-09-at-115215.jpeg" group-title="Benfica jogos",20230809.ST.Benfica-Porto
 https://iv.ggtyler.dev/latest_version?id=gOplESgNsdk&itag=22
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20230929.LP.Benfica-Porto" tvg-logo="https://www.soccerblog.com.br/wp-content/uploads/2017/04/blogger-e1491055909329.jpg" group-title="Benfica jogos",20230929.LP.Benfica-Porto
-https://myfiles.debrid.it/4nu4llafd5/links/20230929_Benfica_x_Porto_Liga_Portugal_BTV_full.ts
+https://myfiles.debrid.it/4detau4rd6/links/20230929_Benfica_x_Porto_Liga_Portugal_BTV_full.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20231112.LP.Benfica-Sporting.Pt1" tvg-logo="http://3.bp.blogspot.com/_bcyvz0LVHFI/TBIRflqsSwI/AAAAAAAAAeQ/4EijvuR28Ns/s1600/Benfica_Sporting.jpg" group-title="Benfica jogos",20231112.LP.Benfica-Sporting.Pt1
-https://myfiles.debrid.it/4nu4llafd5/links/20231112_SLBenfica_x_Sporting_Liga_Portugal_BTV_1st_half.mp4
+https://myfiles.debrid.it/4detau4rd6/links/20231112_SLBenfica_x_Sporting_Liga_Portugal_BTV_1st_half.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="20231112.LP.Benfica-Sporting.Pt2" tvg-logo="http://3.bp.blogspot.com/_bcyvz0LVHFI/TBIRflqsSwI/AAAAAAAAAeQ/4EijvuR28Ns/s1600/Benfica_Sporting.jpg" group-title="Benfica jogos",20231112.LP.Benfica-Sporting.Pt2
-https://myfiles.debrid.it/4nu4llafd5/links/20231112_SLBenfica_x_Sporting_Liga_Portugal_BTV_2nd_half.mp4
+https://myfiles.debrid.it/4detau4rd6/links/20231112_SLBenfica_x_Sporting_Liga_Portugal_BTV_2nd_half.mp4
 
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP.2020x06.Styria.Race.BTSport" tvg-logo="" group-title="Miguel Oliveira wins",MotoGP.2020x06.Styria.Race.BTSport
-https://myfiles.debrid.it/4nu4llafd5/links/MotoGP.2020x06.Styria.Race.BTSport.1080p.fullmatch.org.mp4
+https://myfiles.debrid.it/4detau4rd6/links/MotoGP.2020x06.Styria.Race.BTSport.1080p.fullmatch.org.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP.2020x15.Portuguese.Race.BTSport" tvg-logo="" group-title="Miguel Oliveira wins",MotoGP.2020x15.Portuguese.Race.BTSport
-https://myfiles.debrid.it/4nu4llafd5/links/MotoGP.2020x15.Portuguese.Race.BTSport.1080p.fullmatch.org.mp4
+https://myfiles.debrid.it/4detau4rd6/links/MotoGP.2020x15.Portuguese.Race.BTSport.1080p.fullmatch.org.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP.2021x07.Catalunya.Race.BTSport" tvg-logo="" group-title="Miguel Oliveira wins",MotoGP.2021x07.Catalunya.Race.BTSport
-https://myfiles.debrid.it/4nu4llafd5/links/MotoGP.2021x07.Catalunya.Race.BTSport.1080p.fullmatchsports.com.mp4
+https://myfiles.debrid.it/4detau4rd6/links/MotoGP.2021x07.Catalunya.Race.BTSport.1080p.fullmatchsports.com.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP.2022x02.Indonesia.Race.Full.Cover.BTSport" tvg-logo="" group-title="Miguel Oliveira wins",MotoGP.2022x02.Indonesia.Race.Full.Cover.BTSport
-https://myfiles.debrid.it/4nu4llafd5/links/MotoGP.2022x02.Indonesia.Race.Full.Cover.BTSport.1080p.fullmatchsports.com.mp4
+https://myfiles.debrid.it/4detau4rd6/links/MotoGP.2022x02.Indonesia.Race.Full.Cover.BTSport.1080p.fullmatchsports.com.mp4
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MotoGP.2022x17.Thailand.Race.BTSport" tvg-logo="" group-title="Miguel Oliveira wins",MotoGP.2022x17.Thailand.Race.BTSport
-https://myfiles.debrid.it/4nu4llafd5/links/MotoGP.2022x17.Thailand.Race.BTSportHD.1080p.mp4
+https://myfiles.debrid.it/4detau4rd6/links/MotoGP.2022x17.Thailand.Race.BTSportHD.1080p.mp4
 
 
 #EXTINF:-1 tvg-id="SportTV1(src01).pt" tvg-name="SPORT TV 1 HD" tvg-logo="http://tiny.cc/sporttv1png" group-title="3PT_CO",SPORT TV 1 HD
