@@ -33,33 +33,33 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttvmais.m3
 #EXTINF:-1 tvg-chno="15" tvg-id="PortoCanal(src01).pt" tvg-name="PortoCanal" tvg-logo="" group-title="Generalistas/News",PortoCanal
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/portocanal.m3u8
 
-#EXTINF:-1 tvg-chno="21" tvg-id="SportTV1(src01).pt" tvg-name="SportTV1" tvg-logo="http://tiny.cc/sporttv1png" group-title="Desporto",SportTV1
+#EXTINF:-1 tvg-chno="21" tvg-id="SportTV1(src01).pt" tvg-name="SportTV 1" tvg-logo="http://tiny.cc/sporttv1png" group-title="Desporto",SportTV 1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv1.m3u8
-#EXTINF:-1 tvg-chno="22" tvg-id="SportTV2(src01).pt" tvg-name="SportTV2" tvg-logo="http://tiny.cc/sporttv2png" group-title="Desporto",SportTV2
+#EXTINF:-1 tvg-chno="22" tvg-id="SportTV2(src01).pt" tvg-name="SportTV 2" tvg-logo="http://tiny.cc/sporttv2png" group-title="Desporto",SportTV 2
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv2.m3u8
-#EXTINF:-1 tvg-chno="1023" tvg-id="SportTV3(src01).pt" tvg-name="SportTV3" tvg-logo="http://tiny.cc/sporttv3png" group-title="Desporto",SportTV3
+#EXTINF:-1 tvg-chno="1023" tvg-id="SportTV3(src01).pt" tvg-name="SportTV 3" tvg-logo="http://tiny.cc/sporttv3png" group-title="Desporto",SportTV 3
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv3.m3u8
-#EXTINF:-1 tvg-chno="24" tvg-id="SportTV4(src01).pt" tvg-name="SportTV4" tvg-logo="http://tiny.cc/sporttv4png" group-title="Desporto",SportTV4
+#EXTINF:-1 tvg-chno="24" tvg-id="SportTV4(src01).pt" tvg-name="SportTV 4" tvg-logo="http://tiny.cc/sporttv4png" group-title="Desporto",SportTV 4
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv4.m3u8
-#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV5" tvg-logo="http://tiny.cc/sporttv5png" group-title="Desporto",SportTV5
+#EXTINF:-1 tvg-chno="25" tvg-id="SportTV5(src01).pt" tvg-name="SportTV 5" tvg-logo="http://tiny.cc/sporttv5png" group-title="Desporto",SportTV 5
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv5.m3u8
-#EXTINF:-1 tvg-chno="1026" tvg-id="SportTV6(src01).pt" tvg-name="SportTV6" tvg-logo="http://tiny.cc/sporttv6png" group-title="Desporto",SportTV6
+#EXTINF:-1 tvg-chno="1026" tvg-id="SportTV6(src01).pt" tvg-name="SportTV 6" tvg-logo="http://tiny.cc/sporttv6png" group-title="Desporto",SportTV 6
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv6.m3u8
-#EXTINF:-1 tvg-chno="1027" tvg-id="SportTV7(src01).pt" tvg-name="SportTV7" tvg-logo="http://tiny.cc/sporttv7png" group-title="Desporto",SportTV7
+#EXTINF:-1 tvg-chno="1027" tvg-id="SportTV7(src01).pt" tvg-name="SportTV 7" tvg-logo="http://tiny.cc/sporttv7png" group-title="Desporto",SportTV 7
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/sporttv7.m3u8
 #EXTINF:-1 tvg-chno="30" tvg-id="BenficaTVMulticamaras(src01).pt" tvg-name="BTV" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/benfica-tv.png" group-title="Desporto",BTV
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/btv1.m3u8
-#EXTINF:-1 tvg-chno="1031" tvg-id="ElevenSports1(src01).pt" tvg-name="DAZN1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",DAZN1
+#EXTINF:-1 tvg-chno="1031" tvg-id="ElevenSports1(src01).pt" tvg-name="DAZN 1" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-1.png" group-title="Desporto",DAZN 1
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/elevensports1.m3u8
-#EXTINF:-1 tvg-chno="1032" tvg-id="ElevenSports2(src01).pt" tvg-name="DAZN2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-2.png" group-title="Desporto",DAZN2
+#EXTINF:-1 tvg-chno="1032" tvg-id="ElevenSports2(src01).pt" tvg-name="DAZN 2" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-2.png" group-title="Desporto",DAZN 2
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/elevensports2.m3u8
-#EXTINF:-1 tvg-chno="1033" tvg-id="ElevenSports3(src01).pt" tvg-name="DAZN3" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-3.png" group-title="Desporto",DAZN3
+#EXTINF:-1 tvg-chno="1033" tvg-id="ElevenSports3(src01).pt" tvg-name="DAZN 3" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-3.png" group-title="Desporto",DAZN 3
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/elevensports3.m3u8
-#EXTINF:-1 tvg-chno="1034" tvg-id="ElevenSports4(src01).pt" tvg-name="DAZN4" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-4.png" group-title="Desporto",DAZN4
+#EXTINF:-1 tvg-chno="1034" tvg-id="ElevenSports4(src01).pt" tvg-name="DAZN 4" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-4.png" group-title="Desporto",DAZN 4
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/elevensports4.m3u8
-#EXTINF:-1 tvg-chno="1035" tvg-id="ElevenSports5(src01).pt" tvg-name="DAZN5" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-5.png" group-title="Desporto",DAZN5
+#EXTINF:-1 tvg-chno="1035" tvg-id="ElevenSports5(src01).pt" tvg-name="DAZN 5" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-5.png" group-title="Desporto",DAZN 5
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/elevensports5.m3u8
-#EXTINF:-1 tvg-chno="1036" tvg-id="ElevenSports6(src01).pt" tvg-name="DAZN6" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="Desporto",DAZN6
+#EXTINF:-1 tvg-chno="1036" tvg-id="ElevenSports6(src01).pt" tvg-name="DAZN 6" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/eleven-sports-6.png" group-title="Desporto",DAZN 6
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/lowlatency/elevensports6.m3u8
 
 #EXTINF:-1 tvg-chno="38" tvg-id="EuroSport1(src01).pt" tvg-name="Eurosport1" tvg-logo="https://tudonumclick.com/imagens/tv/eurosport.png" group-title="Desporto",Eurosport1
