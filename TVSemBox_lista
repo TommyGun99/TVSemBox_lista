@@ -28,7 +28,7 @@ https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/tvificcao.m3u8
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/abolatv.m3u8
 #EXTINF:-1 tvg-chno="13.5" tvg-id="SIC Mulher HD" tvg-name="SicMulher" tvg-logo="" group-title="Entretenimento",SicMulher
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sicmulher.m3u8
-#EXTINF:-1 tvg-chno="14" tvg-id="SPORT TV+ HD" tvg-name="SportTV+" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPTVHD&profile=corner_transparent_positive" group-title="Desporto",SportTV+
+#EXTINF:-1 tvg-chno="14" tvg-id="SPORT TV+ HD" tvg-name="SportTV+" tvg-logo="https://spoo.me/sporttvmaispng" group-title="Desporto",SportTV+
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/sporttvmais.m3u8
 #EXTINF:-1 tvg-chno="15" tvg-id="Porto Canal HD" tvg-name="PortoCanal" tvg-logo="" group-title="Generalistas/News",PortoCanal
 https://lb.nostv.pt.meogo.meo.pt.tv.vodafone.pt.meo-cache.com/hls/portocanal.m3u8
